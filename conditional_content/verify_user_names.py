@@ -1,6 +1,3 @@
-from hashlib import new
-
-
 current_users = ["ryan", "sheron", "someone", "nobody", "anybody", "alee"]
 
 new_users = ["thomas", "jhon", "RYAN", "luke", "someone"]
